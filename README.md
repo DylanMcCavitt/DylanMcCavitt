@@ -1,5 +1,5 @@
 - @DylanMcCavitt
-- Beginner and learning in Data Science/ Machine Learning 
+- Data Science/ Machine Learning (Beginner)
 - Currently learning Python / TensorFlow
 - Collaborate on....
 - 📫/ twitter - @dylanmccavitt_
