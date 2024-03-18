@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DylanMcCavitt
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently studying for Security + 
-- 💞️ I’m looking to collaborate on ...
-- 📫/ twitter - dylanmccavit_
+- @DylanMcCavitt
+- Beginner and learning in Data Science/ Machine Learning 
+- Currently learning Python / TensorFlow
+- Collaborate on....
+- 📫/ twitter - @dylanmccavitt_
 
 <!---
 DylanMcCavitt/DylanMcCavitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
