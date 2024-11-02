@@ -1,7 +1,5 @@
 - @DylanMcCavitt
-- Data Science/ Machine Learning (Beginner)
-- Currently learning Python / TensorFlow
-- Collaborate on....
+- CS Grad Student @Stevens Institute of Technology
 - 📫/ twitter - @dylanmccavitt_
 
 <!---
