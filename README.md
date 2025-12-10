@@ -22,7 +22,7 @@ Some of my projects are private (for coursework or in-progress work), but hereâ€
 
 - **Bellaâ€™s Beads (Private) [finished but still integrating]**
 - bellasbeads.shop
-  Full-stack e-commerce store for handmade jewelry.  
+  - Full-stack e-commerce store for handmade jewelry.  
   *Stack:* React + TypeScript, Node/Express, Stripe, transactional email, and a hosted Postgres backend.  
   I handled everything on this site.
 
