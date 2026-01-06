@@ -1,6 +1,6 @@
 # Hi, I'm Dylan McCavitt
 
-I'm a graduate CS student at Stevens Institute of Technology, graduating in Fall 2025.
+Recent grad from Stevens Institute of Technology with a MS in CS. 
 
 ## what I work with
 - **Languages:** JS/TS, Python, Java, SQL
