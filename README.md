@@ -35,12 +35,6 @@ Recent grad from Stevens Institute of Technology with a MS in CS.
 
 </div>
 
-## 🌱 Currently Learning / Focusing On
-
-- **Go** — for backend services and CLIs
-- **Backend architecture** — better API design, auth, testing and deployment
-- **Infra/dev environments** — applying what I mess with in NixOS and homelab to real projects
-
 ## 📂 Projects
 
 Some of my projects are private (for coursework or in-progress work), but here's an overview of what I've been building:
