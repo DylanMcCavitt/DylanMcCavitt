@@ -58,12 +58,3 @@ Website for a local band with custom icons, show calendar integration (Google Ca
 Declarative configs for my development environment (NixOS, home-manager, terminal + editor setup) to keep all my machines consistent.
 
 **Homelab** - (In Progress)
-Currently building out my home infrastructure — documentation coming when complete:
-
-- **Jellyfin** — self-hosted media server
-- **Pi-hole** — network-wide ad blocking
-- **Tailscale** — mesh VPN for remote access
-- **VLANs** — network segmentation
-- **DIY NAS** — custom storage solution
-
-I'll gradually open-source more code and add screenshots/write-ups as projects stabilize.
