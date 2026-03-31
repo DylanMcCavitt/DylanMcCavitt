@@ -35,26 +35,24 @@ Recent grad from Stevens Institute of Technology with a MS in CS.
 
 </div>
 
-## 📂 Projects
+## Projects
 
-Some of my projects are private (for coursework or in-progress work), but here's an overview of what I've been building:
-
-**🛒 Bella's Beads** *(Private)* — [bellasbeads.shop](https://bellasbeads.shop)  
+**Bella's Beads** *(Private)* — [bellasbeads.shop](https://bellasbeads.shop)  
 Full-stack e-commerce store for handmade jewelry.  
 `React` `TypeScript` `Node/Express` `Stripe` `PostgreSQL`  
 I handled everything on this site.
 
-**📋 Work Order Management System** *(Course Project)*   - (https://github.com/apolydore/Work-Order-Management-System)
+**Work Order Management System** *(Course Project)*   - (https://github.com/apolydore/Work-Order-Management-System)
 
 Web app for tracking work orders, companies, and users.  
 `Node.js` `Express` `MongoDB` `Handlebars`
 
-**🎸 Band Website – NHF**  - (https://nohardfeelings.app)
+**Band Website – NHF**  - (https://nohardfeelings.app)
 
 Website for a local band with custom icons, show calendar integration (Google Calendar API), and responsive layout.  
 `Astro` `Tailwind`
 
-**⚙️ NixOS / Dotfiles** 
+**NixOS / Dotfiles** 
 Declarative configs for my development environment (NixOS, home-manager, terminal + editor setup) to keep all my machines consistent.
 
 **Homelab** - (In Progress)
